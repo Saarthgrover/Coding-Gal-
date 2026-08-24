@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Biography Page</title>
+  </head>
+  <body>
+
+    <h1>Mini Biography: Elon Musk</h1>
+    <p>Elon Musk is a businessman and engineer known for leading companies in the electric vehicle, space, and technology industries.</p>
+
+    <h2>Early Life</h2>
+    <p>He was born in Pretoria, South Africa, and later moved to Canada and then the United States to pursue his education and career.</p>
+
+    <h2>Important Achievement</h2>
+    <p>He played a <strong>key role in building SpaceX, the first private company to send astronauts to the International Space Station</strong>.</p>
+    <p>He is remembered as a <em>driving force behind Tesla</em> for helping push electric cars into the mainstream car market.</p>
+    <p>One trait that made him stand out was <mark>his willingness to take big risks on new technology</mark>.</p>
+
+    <h2>Correction Corner</h2>
+    <p><s>He founded Tesla.</s> He actually joined Tesla as an early investor and chairman shortly after it was founded, then later became CEO.</p>
+
+    <h2>Interesting Examples</h2>
+    <p>SpaceX rockets like the Falcon 9 can land back on Earth after launch, reusing stages instead of throwing them away.</p>
+    <p>Tesla's Model 3 became one of the best-selling electric cars, helping normalize electric vehicles for everyday drivers.</p>
+
+    <h2>Words That Inspire</h2>
+    <p>He once said, <q>When something is important enough, you do it even if the odds are not in your favor.</q></p>
+    <blockquote>
+      Failure is an option here. If things are not failing, you are not innovating enough.
+    </blockquote>
+
+    <h3>My Reflection</h3>
+    <p>I find Elon Musk interesting because his companies show how ambitious goals in engineering can push entire industries forward.</p>
+
+  </body>
+</html>
